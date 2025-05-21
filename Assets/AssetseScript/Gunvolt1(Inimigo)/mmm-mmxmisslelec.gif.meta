@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 4dcf0f4483afff24d9f0bde8ea70ae2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4798863084752957676
+    second: mmm-mmxmisslelec_0
+  - first:
+      213: 8014673172459872093
+    second: mmm-mmxmisslelec_1
+  - first:
+      213: 7855014917554484139
+    second: mmm-mmxmisslelec_2
+  - first:
+      213: 4953992486433454649
+    second: mmm-mmxmisslelec_3
+  - first:
+      213: -5968370099406805372
+    second: mmm-mmxmisslelec_4
+  - first:
+      213: -1773888582199575913
+    second: mmm-mmxmisslelec_5
+  - first:
+      213: 260919921908845607
+    second: mmm-mmxmisslelec_6
+  - first:
+      213: 6759998280802133214
+    second: mmm-mmxmisslelec_7
+  - first:
+      213: -3121027681797689956
+    second: mmm-mmxmisslelec_8
+  - first:
+      213: -6133826871334650467
+    second: mmm-mmxmisslelec_9
+  - first:
+      213: 2382013146629660441
+    second: mmm-mmxmisslelec_10
+  - first:
+      213: -4365729061946126961
+    second: mmm-mmxmisslelec_11
+  - first:
+      213: 6892081593066457767
+    second: mmm-mmxmisslelec_12
+  - first:
+      213: 8242949579766381842
+    second: mmm-mmxmisslelec_13
+  - first:
+      213: -3790157071794366944
+    second: mmm-mmxmisslelec_14
+  - first:
+      213: 3062810794769267689
+    second: mmm-mmxmisslelec_15
+  - first:
+      213: 5383992135945126764
+    second: mmm-mmxmisslelec_16
+  - first:
+      213: 9212509931724535705
+    second: mmm-mmxmisslelec_17
+  - first:
+      213: 3676983329128323611
+    second: mmm-mmxmisslelec_18
+  - first:
+      213: -1053992381905006310
+    second: mmm-mmxmisslelec_19
+  - first:
+      213: 5068285465861338877
+    second: mmm-mmxmisslelec_20
+  - first:
+      213: -8759785444366694464
+    second: mmm-mmxmisslelec_21
+  - first:
+      213: -6590297158215661219
+    second: mmm-mmxmisslelec_22
+  - first:
+      213: 4483674008669531769
+    second: mmm-mmxmisslelec_23
+  - first:
+      213: 4504295138031020225
+    second: mmm-mmxmisslelec_24
+  - first:
+      213: 1248607550988932845
+    second: mmm-mmxmisslelec_25
+  - first:
+      213: 5006473370125816329
+    second: mmm-mmxmisslelec_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 160
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07f64dc8cf89240800000000000000
+      internalID: 4798863084752957676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd25b69c6d93f60800000000000000
+      internalID: 8014673172459872093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ba3a237e920d60800000000000000
+      internalID: 7855014917554484139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93af1d54bed10c440800000000000000
+      internalID: 4953992486433454649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866bc034071c2da0800000000000000
+      internalID: -5968370099406805372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 160
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7fd2abb1e167e0800000000000000
+      internalID: -1773888582199575913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 160
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c033c5949fe9300800000000000000
+      internalID: 260919921908845607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 84
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed46671de9650dd50800000000000000
+      internalID: 6759998280802133214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 83
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9da94cfbd1efa4d0800000000000000
+      internalID: -3121027681797689956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d3a5c75f440eaa0800000000000000
+      internalID: -6133826871334650467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fdb2f165c9e0120800000000000000
+      internalID: 2382013146629660441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d0a1d7c80d963c0800000000000000
+      internalID: -4365729061946126961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 82
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa0cbd61b795af50800000000000000
+      internalID: 6892081593066457767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3e6348f6d46270800000000000000
+      internalID: 8242949579766381842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02613cc6938a66bc0800000000000000
+      internalID: -3790157071794366944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb347cb03a418a20800000000000000
+      internalID: 3062810794769267689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6381807258c7ba40800000000000000
+      internalID: 5383992135945126764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f23219f869df70800000000000000
+      internalID: 9212509931724535705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1ab93bd4470330800000000000000
+      internalID: 3676983329128323611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 52
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11959053877f51f0800000000000000
+      internalID: -1053992381905006310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 52
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b0fc37ca265640800000000000000
+      internalID: 5068285465861338877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c2e7bc8dfe6680800000000000000
+      internalID: -8759785444366694464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590a48c6af8a84a0800000000000000
+      internalID: -6590297158215661219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e266f51c5393e30800000000000000
+      internalID: 4483674008669531769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8abd13098728e30800000000000000
+      internalID: 4504295138031020225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 13
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d094c3f1f35110800000000000000
+      internalID: 1248607550988932845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmxmisslelec_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9025dc331019a7540800000000000000
+      internalID: 5006473370125816329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e42e0f20312fb2941a1400a1135db69d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mmm-mmxmisslelec_0: 4798863084752957676
+      mmm-mmxmisslelec_1: 8014673172459872093
+      mmm-mmxmisslelec_10: 2382013146629660441
+      mmm-mmxmisslelec_11: -4365729061946126961
+      mmm-mmxmisslelec_12: 6892081593066457767
+      mmm-mmxmisslelec_13: 8242949579766381842
+      mmm-mmxmisslelec_14: -3790157071794366944
+      mmm-mmxmisslelec_15: 3062810794769267689
+      mmm-mmxmisslelec_16: 5383992135945126764
+      mmm-mmxmisslelec_17: 9212509931724535705
+      mmm-mmxmisslelec_18: 3676983329128323611
+      mmm-mmxmisslelec_19: -1053992381905006310
+      mmm-mmxmisslelec_2: 7855014917554484139
+      mmm-mmxmisslelec_20: 5068285465861338877
+      mmm-mmxmisslelec_21: -8759785444366694464
+      mmm-mmxmisslelec_22: -6590297158215661219
+      mmm-mmxmisslelec_23: 4483674008669531769
+      mmm-mmxmisslelec_24: 4504295138031020225
+      mmm-mmxmisslelec_25: 1248607550988932845
+      mmm-mmxmisslelec_26: 5006473370125816329
+      mmm-mmxmisslelec_3: 4953992486433454649
+      mmm-mmxmisslelec_4: -5968370099406805372
+      mmm-mmxmisslelec_5: -1773888582199575913
+      mmm-mmxmisslelec_6: 260919921908845607
+      mmm-mmxmisslelec_7: 6759998280802133214
+      mmm-mmxmisslelec_8: -3121027681797689956
+      mmm-mmxmisslelec_9: -6133826871334650467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

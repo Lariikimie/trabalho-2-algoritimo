@@ -1,0 +1,4563 @@
+fileFormatVersion: 2
+guid: cb71d6695b19dce479fa6db7bc515e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6447313382215755544
+    second: magaman_0
+  - first:
+      213: 720463758966788904
+    second: magaman_1
+  - first:
+      213: -1103120856118785906
+    second: magaman_2
+  - first:
+      213: -6054628678717031041
+    second: magaman_3
+  - first:
+      213: 1231424557648073383
+    second: magaman_4
+  - first:
+      213: -5605465721993986050
+    second: magaman_5
+  - first:
+      213: -8778731802624444901
+    second: magaman_6
+  - first:
+      213: 4366483723073543369
+    second: magaman_7
+  - first:
+      213: 8944185667708635400
+    second: magaman_8
+  - first:
+      213: -187283365085713880
+    second: magaman_9
+  - first:
+      213: -6620385445664870774
+    second: magaman_10
+  - first:
+      213: -1982484091165880406
+    second: magaman_11
+  - first:
+      213: -4088843266562304787
+    second: magaman_12
+  - first:
+      213: -7416334263257269295
+    second: magaman_13
+  - first:
+      213: -6376405179452625001
+    second: magaman_14
+  - first:
+      213: -1323414887585967262
+    second: magaman_15
+  - first:
+      213: 5077440503657717402
+    second: magaman_16
+  - first:
+      213: 6239707342616715895
+    second: magaman_17
+  - first:
+      213: 4241774812242417481
+    second: magaman_18
+  - first:
+      213: 8238301799098821140
+    second: magaman_19
+  - first:
+      213: -6506320051393383017
+    second: magaman_20
+  - first:
+      213: -2561049135748592227
+    second: magaman_21
+  - first:
+      213: -1389897294374041116
+    second: magaman_22
+  - first:
+      213: -5579179045285462918
+    second: magaman_23
+  - first:
+      213: 7117033997535646437
+    second: magaman_24
+  - first:
+      213: 6997755801307678786
+    second: magaman_25
+  - first:
+      213: 6203507940422232688
+    second: magaman_26
+  - first:
+      213: 9215004565124650820
+    second: magaman_27
+  - first:
+      213: 6456932196099483813
+    second: magaman_28
+  - first:
+      213: -4466331778645179387
+    second: magaman_29
+  - first:
+      213: -4904614401942983989
+    second: magaman_30
+  - first:
+      213: -1634540323303269020
+    second: magaman_31
+  - first:
+      213: -2424788714617751831
+    second: magaman_32
+  - first:
+      213: -7593635332288270436
+    second: magaman_33
+  - first:
+      213: -6146475743721775715
+    second: magaman_34
+  - first:
+      213: 940780117621723334
+    second: magaman_35
+  - first:
+      213: -2281552856245707608
+    second: magaman_36
+  - first:
+      213: 6797796214663339157
+    second: magaman_37
+  - first:
+      213: -5212896451050186932
+    second: magaman_38
+  - first:
+      213: -9193962400558697382
+    second: magaman_39
+  - first:
+      213: -471440075245815912
+    second: magaman_40
+  - first:
+      213: 8645839225476261624
+    second: magaman_41
+  - first:
+      213: -8742061283034400428
+    second: magaman_42
+  - first:
+      213: -7440493691991964185
+    second: magaman_43
+  - first:
+      213: 1144971058350678914
+    second: magaman_44
+  - first:
+      213: 6674407402922394996
+    second: magaman_45
+  - first:
+      213: 4477097155368089631
+    second: magaman_46
+  - first:
+      213: -5873122835613609804
+    second: magaman_47
+  - first:
+      213: -8420661618102480281
+    second: magaman_48
+  - first:
+      213: 7473558031920163593
+    second: magaman_49
+  - first:
+      213: -2424981580937216633
+    second: magaman_50
+  - first:
+      213: 175203868628737464
+    second: magaman_51
+  - first:
+      213: -6924856197967539264
+    second: magaman_52
+  - first:
+      213: -3753394476962328756
+    second: magaman_53
+  - first:
+      213: -8343437417564499745
+    second: magaman_54
+  - first:
+      213: 4514349756629224769
+    second: magaman_55
+  - first:
+      213: -6478987946697588851
+    second: magaman_56
+  - first:
+      213: -1199056090895455420
+    second: magaman_57
+  - first:
+      213: 5532877548481573213
+    second: magaman_58
+  - first:
+      213: 1078903856344128186
+    second: magaman_59
+  - first:
+      213: 5762209358609673968
+    second: magaman_60
+  - first:
+      213: 696338152705026413
+    second: magaman_61
+  - first:
+      213: -9196126191022800049
+    second: magaman_62
+  - first:
+      213: -434417037506095837
+    second: magaman_63
+  - first:
+      213: -5393307400120851267
+    second: magaman_64
+  - first:
+      213: 4358229769443467344
+    second: magaman_65
+  - first:
+      213: 6754479864531884824
+    second: magaman_66
+  - first:
+      213: -1530152621034970717
+    second: magaman_67
+  - first:
+      213: -1341143257970321084
+    second: magaman_68
+  - first:
+      213: 1246852254874773412
+    second: magaman_69
+  - first:
+      213: 7993173138764914199
+    second: magaman_70
+  - first:
+      213: 148715874183531801
+    second: magaman_71
+  - first:
+      213: -6266109071378890952
+    second: magaman_72
+  - first:
+      213: -3207790660356329945
+    second: magaman_73
+  - first:
+      213: 1366845367165283983
+    second: magaman_74
+  - first:
+      213: -2252676860596657314
+    second: magaman_75
+  - first:
+      213: -5760081347757948249
+    second: magaman_76
+  - first:
+      213: 6061978055228124006
+    second: magaman_77
+  - first:
+      213: -5183774992744447651
+    second: magaman_78
+  - first:
+      213: 1901936825967900166
+    second: magaman_79
+  - first:
+      213: -917716056157285027
+    second: magaman_80
+  - first:
+      213: -3553369447374817918
+    second: magaman_81
+  - first:
+      213: 5617518192165608633
+    second: magaman_82
+  - first:
+      213: 8313360332553538609
+    second: magaman_83
+  - first:
+      213: -6891441824680170453
+    second: magaman_84
+  - first:
+      213: -9058781313234169000
+    second: magaman_85
+  - first:
+      213: 2372475027237076061
+    second: magaman_86
+  - first:
+      213: -4946838713792810809
+    second: magaman_87
+  - first:
+      213: 7611320834537470271
+    second: magaman_88
+  - first:
+      213: 42871322962565519
+    second: magaman_89
+  - first:
+      213: -205079375372454894
+    second: magaman_90
+  - first:
+      213: -4024934721027310756
+    second: magaman_91
+  - first:
+      213: -474478312618372325
+    second: magaman_92
+  - first:
+      213: 6892356530070130439
+    second: magaman_93
+  - first:
+      213: -1560221923811146061
+    second: magaman_94
+  - first:
+      213: -7988294668843216477
+    second: magaman_95
+  - first:
+      213: -469479140450215022
+    second: magaman_96
+  - first:
+      213: -4751642325052458340
+    second: magaman_97
+  - first:
+      213: 9217274775326043223
+    second: magaman_98
+  - first:
+      213: 9136235068132199679
+    second: magaman_99
+  - first:
+      213: -2039865742345458469
+    second: magaman_100
+  - first:
+      213: 199325036295694417
+    second: magaman_101
+  - first:
+      213: 3348857921334251297
+    second: magaman_102
+  - first:
+      213: 4677713826095198018
+    second: magaman_103
+  - first:
+      213: 1574615494002828869
+    second: magaman_104
+  - first:
+      213: -7625193646915356233
+    second: magaman_105
+  - first:
+      213: 4362826953533575294
+    second: magaman_106
+  - first:
+      213: 4119460318160754618
+    second: magaman_107
+  - first:
+      213: 4238765756501787534
+    second: magaman_108
+  - first:
+      213: -6888475187962379820
+    second: magaman_109
+  - first:
+      213: -2703165404795524274
+    second: magaman_110
+  - first:
+      213: -3455960150520579163
+    second: magaman_111
+  - first:
+      213: -7586681962164317204
+    second: magaman_112
+  - first:
+      213: 675484058436820707
+    second: magaman_113
+  - first:
+      213: 5774591015070643628
+    second: magaman_114
+  - first:
+      213: 2563070198461833585
+    second: magaman_115
+  - first:
+      213: 2413608336421414262
+    second: magaman_116
+  - first:
+      213: -6735464942235161824
+    second: magaman_117
+  - first:
+      213: -4788961952953187277
+    second: magaman_118
+  - first:
+      213: -8178774197459039632
+    second: magaman_119
+  - first:
+      213: -8301938930558210657
+    second: magaman_120
+  - first:
+      213: -1753323841491981439
+    second: magaman_121
+  - first:
+      213: -8136243768910271084
+    second: magaman_122
+  - first:
+      213: 5953648931142826461
+    second: magaman_123
+  - first:
+      213: -7972398201755372473
+    second: magaman_124
+  - first:
+      213: -508507775846607491
+    second: magaman_125
+  - first:
+      213: -525974370602379161
+    second: magaman_126
+  - first:
+      213: 1513617945104498019
+    second: magaman_127
+  - first:
+      213: -664439276660734340
+    second: magaman_128
+  - first:
+      213: -5887764022805406111
+    second: magaman_129
+  - first:
+      213: 7057452673103746305
+    second: magaman_130
+  - first:
+      213: 5535034565953342582
+    second: magaman_131
+  - first:
+      213: -4438797326032389410
+    second: magaman_132
+  - first:
+      213: 8922533877576614551
+    second: magaman_133
+  - first:
+      213: 5481710710975906537
+    second: magaman_134
+  - first:
+      213: 9065121737516608563
+    second: magaman_135
+  - first:
+      213: -7405736820062856649
+    second: magaman_136
+  - first:
+      213: 1892110927454145293
+    second: magaman_137
+  - first:
+      213: -2823808482644895938
+    second: magaman_138
+  - first:
+      213: 7921528710767962230
+    second: magaman_139
+  - first:
+      213: 3751874666453095911
+    second: magaman_140
+  - first:
+      213: 8418612757565896620
+    second: magaman_141
+  - first:
+      213: 4489194195779661842
+    second: magaman_142
+  - first:
+      213: -6065555050099160189
+    second: magaman_143
+  - first:
+      213: 230844143716258196
+    second: magaman_144
+  - first:
+      213: -3320819571465883968
+    second: magaman_145
+  - first:
+      213: 2367667718515401949
+    second: magaman_146
+  - first:
+      213: -5381755085495676623
+    second: magaman_147
+  - first:
+      213: 1221593091154063220
+    second: magaman_148
+  - first:
+      213: 4294707202808035573
+    second: magaman_149
+  - first:
+      213: 5102616246725994381
+    second: magaman_150
+  - first:
+      213: 7252290321664776113
+    second: magaman_151
+  - first:
+      213: -3716978781355453261
+    second: magaman_152
+  - first:
+      213: 6869298338773243810
+    second: magaman_153
+  - first:
+      213: -7705358031348232277
+    second: magaman_154
+  - first:
+      213: 5826081473450155824
+    second: magaman_155
+  - first:
+      213: -2600758357559002991
+    second: magaman_156
+  - first:
+      213: 9186057324519114750
+    second: magaman_157
+  - first:
+      213: 8035901619360349433
+    second: magaman_158
+  - first:
+      213: 6248953579389122349
+    second: magaman_159
+  - first:
+      213: 5456590291986741048
+    second: magaman_160
+  - first:
+      213: 6559207475644810401
+    second: magaman_161
+  - first:
+      213: 3522824351678911724
+    second: magaman_162
+  - first:
+      213: 8566829431014615706
+    second: magaman_163
+  - first:
+      213: 2075196273626102654
+    second: magaman_164
+  - first:
+      213: -211954740764529875
+    second: magaman_165
+  - first:
+      213: 5385749493688811981
+    second: magaman_166
+  - first:
+      213: 5690810075685962042
+    second: magaman_167
+  - first:
+      213: -953969914573860018
+    second: magaman_168
+  - first:
+      213: -6950957284838929529
+    second: magaman_169
+  - first:
+      213: 5492931665805933504
+    second: magaman_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magaman_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 879
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817a79e9c55797950800000000000000
+      internalID: 6447313382215755544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 878
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82312cab8f99ff900800000000000000
+      internalID: 720463758966788904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 878
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8807ba0d6de0b0f0800000000000000
+      internalID: -1103120856118785906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 878
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dbd26ab43a9fba0800000000000000
+      internalID: -6054628678717031041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 878
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25e4e5c16e61110800000000000000
+      internalID: 1231424557648073383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 878
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff7be7ff926532b0800000000000000
+      internalID: -5605465721993986050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 878
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16352eefedab2680800000000000000
+      internalID: -8778731802624444901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 878
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd25fbfcdd89c30800000000000000
+      internalID: 4366483723073543369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 878
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c9e8f971202c70800000000000000
+      internalID: 8944185667708635400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 878
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ae9bf85c2a66df0800000000000000
+      internalID: -187283365085713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 829
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eaaf2738aaf14a0800000000000000
+      internalID: -6620385445664870774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 829
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc135093dcc74e0800000000000000
+      internalID: -1982484091165880406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 829
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de45e4276b28147c0800000000000000
+      internalID: -4088843266562304787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 829
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfdfee743e31990800000000000000
+      internalID: -7416334263257269295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 829
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe3ced5457287a0800000000000000
+      internalID: -6376405179452625001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 829
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26399f6eb2942ade0800000000000000
+      internalID: -1323414887585967262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 829
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed2b49c31b67640800000000000000
+      internalID: 5077440503657717402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 829
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e01bc4c4e79650800000000000000
+      internalID: 6239707342616715895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 829
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94798e4c7bfcdda30800000000000000
+      internalID: 4241774812242417481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 789
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2fbf76d3545270800000000000000
+      internalID: 8238301799098821140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 740
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79532bd9268e4b5a0800000000000000
+      internalID: -6506320051393383017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 789
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d426b4163557cd0800000000000000
+      internalID: -2561049135748592227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 788
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e90f8656c716bce0800000000000000
+      internalID: -1389897294374041116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 788
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf473d736c292b0800000000000000
+      internalID: -5579179045285462918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 788
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e29d7d86b8c4c260800000000000000
+      internalID: 7117033997535646437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 788
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488fd953d50d1160800000000000000
+      internalID: 6997755801307678786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 788
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aae2eaa99471650800000000000000
+      internalID: 6203507940422232688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 788
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479bdb24d542ef70800000000000000
+      internalID: 9215004565124650820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 788
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ea4f3f91ab9950800000000000000
+      internalID: 6456932196099483813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 788
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c0d439e66402c0800000000000000
+      internalID: -4466331778645179387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 788
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6cebef2f4febb0800000000000000
+      internalID: -4904614401942983989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 740
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dd4727c32f059e0800000000000000
+      internalID: -1634540323303269020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 740
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e635d9d28b695ed0800000000000000
+      internalID: -2424788714617751831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 740
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2a19e5ecfd9690800000000000000
+      internalID: -7593635332288270436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 740
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d98e260e453baa0800000000000000
+      internalID: -6146475743721775715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 740
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0d79258825e0d00800000000000000
+      internalID: 940780117621723334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 740
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5233f3cb4650e0800000000000000
+      internalID: -2281552856245707608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 740
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd08614af965e50800000000000000
+      internalID: 6797796214663339157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 740
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4752400c4218a7b0800000000000000
+      internalID: -5212896451050186932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 740
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b66c88eb786080800000000000000
+      internalID: -9193962400558697382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 740
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f616dfbb1579f0800000000000000
+      internalID: -471440075245815912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 703
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a6abc7f03cf770800000000000000
+      internalID: 8645839225476261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 702
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f90c9495fda680800000000000000
+      internalID: -8742061283034400428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 702
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5c847986e0eb890800000000000000
+      internalID: -7440493691991964185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 702
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283681b7c11c3ef00800000000000000
+      internalID: 1144971058350678914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 702
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4754d61ab2240ac50800000000000000
+      internalID: 6674407402922394996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 702
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1870a26428d12e30800000000000000
+      internalID: 4477097155368089631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 702
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0140de5e97e7ea0800000000000000
+      internalID: -5873122835613609804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_48
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 702
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7625c377fdcc32b80800000000000000
+      internalID: -8420661618102480281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 702
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b6ed4fe6967b760800000000000000
+      internalID: 7473558031920163593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 702
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d3f59a91cb85ed0800000000000000
+      internalID: -2424981580937216633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 702
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd3e08df27e6200800000000000000
+      internalID: 175203868628737464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 660
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39b773af7f5ef90800000000000000
+      internalID: -6924856197967539264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 660
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f4fba0c9349ebc0800000000000000
+      internalID: -3753394476962328756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 660
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd09d58cfd7263c80800000000000000
+      internalID: -8343437417564499745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 660
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d81c38f2136ae30800000000000000
+      internalID: 4514349756629224769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 659
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7d052ac20616a0800000000000000
+      internalID: -6478987946697588851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_57
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 659
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b686496d81c5fe0800000000000000
+      internalID: -1199056090895455420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 659
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517afed0dab8cc40800000000000000
+      internalID: 5532877548481573213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 660
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad030575909fe00800000000000000
+      internalID: 1078903856344128186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 660
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6c55d1ea77ff40800000000000000
+      internalID: 5762209358609673968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 606
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e88b4cd3e9a900800000000000000
+      internalID: 696338152705026413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 606
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f438b62d3fbc06080800000000000000
+      internalID: -9196126191022800049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 605
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325521b8104a8f9f0800000000000000
+      internalID: -434417037506095837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_64
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 605
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4af4b9e7f1725b0800000000000000
+      internalID: -5393307400120851267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 608
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050e53962ea8b7c30800000000000000
+      internalID: 4358229769443467344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 608
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b93f766abbcbd50800000000000000
+      internalID: 6754479864531884824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 608
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e31b5c4ec3cae0800000000000000
+      internalID: -1530152621034970717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 534
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d4c3005d436de0800000000000000
+      internalID: -1341143257970321084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 533
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7a43b0585bd4110800000000000000
+      internalID: 1246852254874773412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 533
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed64cbe947dee60800000000000000
+      internalID: 7993173138764914199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 533
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dcb25bc48501200800000000000000
+      internalID: 148715874183531801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 533
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fbb94bffe4a09a0800000000000000
+      internalID: -6266109071378890952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 533
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e25a7d363ab73d0800000000000000
+      internalID: -3207790660356329945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 533
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e66cc9e9208f210800000000000000
+      internalID: 1366845367165283983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 533
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e46a9452ecb0e0800000000000000
+      internalID: -2252676860596657314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 533
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2c88d48841010b0800000000000000
+      internalID: -5760081347757948249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 533
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be51a6ce8702450800000000000000
+      internalID: 6061978055228124006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_78
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 533
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510ae1eb188f08b0800000000000000
+      internalID: -5183774992744447651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606fc016779056a10800000000000000
+      internalID: 1901936825967900166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 472
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559214fb1e9343f0800000000000000
+      internalID: -917716056157285027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 468
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857f7d6055efaec0800000000000000
+      internalID: -3553369447374817918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 466
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc535b680f65fd40800000000000000
+      internalID: 5617518192165608633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 467
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c4da72d2dfe5370800000000000000
+      internalID: 8313360332553538609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 466
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2ba14c2eac50a0800000000000000
+      internalID: -6891441824680170453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 462
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8531bbe146eb84280800000000000000
+      internalID: -9058781313234169000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 459
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c73f4a779bce020800000000000000
+      internalID: 2372475027237076061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_87
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 460
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ba37366c495bb0800000000000000
+      internalID: -4946838713792810809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 477
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39b226f8f7d0a960800000000000000
+      internalID: 7611320834537470271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_89
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 460
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891c38bd3f489000800000000000000
+      internalID: 42871322962565519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_90
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 458
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2147a280569672df0800000000000000
+      internalID: -205079375372454894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 415
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf70d323f8428c0800000000000000
+      internalID: -4024934721027310756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 415
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1351c21d705a69f0800000000000000
+      internalID: -474478312618372325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 415
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f8c203fb196af50800000000000000
+      internalID: 6892356530070130439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_94
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 415
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c57c3d6af85ae0800000000000000
+      internalID: -1560221923811146061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_95
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 415
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1147e8250e32190800000000000000
+      internalID: -7988294668843216477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 415
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b520c85331c79f0800000000000000
+      internalID: -469479140450215022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 360
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a798b0b76ce0eb0800000000000000
+      internalID: -4751642325052458340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_98
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 360
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c2a7ca2965aef70800000000000000
+      internalID: 9217274775326043223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 360
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc8c7c736d6ace70800000000000000
+      internalID: 9136235068132199679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 360
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdca20e3ae0f0b3e0800000000000000
+      internalID: -2039865742345458469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 360
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582f3f701524c200800000000000000
+      internalID: 199325036295694417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_102
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 360
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f81645988897e20800000000000000
+      internalID: 3348857921334251297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_103
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 359
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f6655f0f39ae040800000000000000
+      internalID: 4677713826095198018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 361
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466dd9f2782ad510800000000000000
+      internalID: 1574615494002828869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 360
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b97b0437cedd2690800000000000000
+      internalID: -7625193646915356233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_106
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 361
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705eddbfffdb8c30800000000000000
+      internalID: 4362826953533575294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_107
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 303
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71a4265534b2930800000000000000
+      internalID: 4119460318160754618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_108
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 303
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8301626ffe13da30800000000000000
+      internalID: 4238765756501787534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_109
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 306
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1096130583760a0800000000000000
+      internalID: -6888475187962379820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_110
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 306
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba906e26d6c7ad0800000000000000
+      internalID: -2703165404795524274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 303
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb056bd86f900d0800000000000000
+      internalID: -3455960150520579163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_112
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 315
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3155d83f0b6b690800000000000000
+      internalID: -7586681962164317204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 320
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eed09a1c2dcf5900800000000000000
+      internalID: 675484058436820707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_114
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 304
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b270eee7732050800000000000000
+      internalID: 5774591015070643628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 253
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17125b904cad19320800000000000000
+      internalID: 2563070198461833585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 253
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e15f7efbde7120800000000000000
+      internalID: 2413608336421414262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 253
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be9f03252d682a0800000000000000
+      internalID: -6735464942235161824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 249
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3344d5f0a703a8db0800000000000000
+      internalID: -4788961952953187277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_119
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 253
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ac25e43382f7e80800000000000000
+      internalID: -8178774197459039632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_120
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 249
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6719378699cc80800000000000000
+      internalID: -8301938930558210657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 253
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba5a37141faa7e0800000000000000
+      internalID: -1753323841491981439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_122
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 249
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d2e1c5661461f80800000000000000
+      internalID: -8136243768910271084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_123
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f62ab82c9f9250800000000000000
+      internalID: 5953648931142826461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_124
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 253
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447868331a5c5190800000000000000
+      internalID: -7972398201755372473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_125
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 253
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75932f3fda61f8f0800000000000000
+      internalID: -508507775846607491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_126
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 253
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768194fb81d53b8f0800000000000000
+      internalID: -525974370602379161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_127
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 191
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3c976083710510800000000000000
+      internalID: 1513617945104498019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c1db8fff67c6f0800000000000000
+      internalID: -664439276660734340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_129
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 188
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16edb53e0d57a4ea0800000000000000
+      internalID: -5887764022805406111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_130
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 189
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105da7f60db11f160800000000000000
+      internalID: 7057452673103746305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_131
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 189
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c4823ac9460dc40800000000000000
+      internalID: 5535034565953342582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 189
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edab2e789593662c0800000000000000
+      internalID: -4438797326032389410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_133
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 189
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c75db94533db70800000000000000
+      internalID: 8922533877576614551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 189
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24c2929d2f21c40800000000000000
+      internalID: 5481710710975906537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_135
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6952f038cdcd70800000000000000
+      internalID: 9065121737516608563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_136
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 191
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a5f147999893990800000000000000
+      internalID: -7405736820062856649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_137
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 192
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0a8a1dd0224a10800000000000000
+      internalID: 1892110927454145293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 183
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37573e6521dfc8d0800000000000000
+      internalID: -2823808482644895938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_139
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 192
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e163746ceeed60800000000000000
+      internalID: 7921528710767962230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e559bf7126511430800000000000000
+      internalID: 3751874666453095911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_141
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 133
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7794403bbe4d470800000000000000
+      internalID: 8418612757565896620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_142
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21031371652dc4e30800000000000000
+      internalID: 4489194195779661842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_143
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 132
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b434191d1d2dba0800000000000000
+      internalID: -6065555050099160189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_144
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 135
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491dfa0968f143300800000000000000
+      internalID: 230844143716258196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_145
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 137
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6c97b1341ae1d0800000000000000
+      internalID: -3320819571465883968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_146
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 88
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4254cde35abd020800000000000000
+      internalID: 2367667718515401949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_147
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d0e4734a2055b0800000000000000
+      internalID: -5381755085495676623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_148
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 93
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2f42b178f3f010800000000000000
+      internalID: 1221593091154063220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_149
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 89
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f83fa5527dd99b30800000000000000
+      internalID: 4294707202808035573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_150
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 85
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d876d3b017220d640800000000000000
+      internalID: 5102616246725994381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 88
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b715de8f9f45a460800000000000000
+      internalID: 7252290321664776113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_152
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 88
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d4a3ed73aa6cc0800000000000000
+      internalID: -3716978781355453261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_153
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 88
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a792caa176a45f50800000000000000
+      internalID: 6869298338773243810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_154
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 88
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf094af1b1111590800000000000000
+      internalID: -7705358031348232277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_155
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f1b717b366ad050800000000000000
+      internalID: 5826081473450155824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_156
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198311f9d0048ebd0800000000000000
+      internalID: -2600758357559002991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_157
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 46
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74652877e6b7f70800000000000000
+      internalID: 9186057324519114750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 46
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcb5ff52f1458f60800000000000000
+      internalID: 8035901619360349433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_159
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 46
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f46d0c2eb8b650800000000000000
+      internalID: 6248953579389122349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_160
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 46
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837f6b6d5f3b9bb40800000000000000
+      internalID: 5456590291986741048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 46
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a445e9627cf60b50800000000000000
+      internalID: 6559207475644810401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_162
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 49
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4dae7451693e030800000000000000
+      internalID: 3522824351678911724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_163
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 49
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aecfe7afd73e670800000000000000
+      internalID: 8566829431014615706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_164
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 49
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb2b814049ccc10800000000000000
+      internalID: 2075196273626102654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_165
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 49
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b2548494cfe0df0800000000000000
+      internalID: -211954740764529875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_166
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 49
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1cf8c21a60eba40800000000000000
+      internalID: 5385749493688811981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_167
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31c975dc91d9fe40800000000000000
+      internalID: 5690810075685962042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_168
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e435a63ca61d2c2f0800000000000000
+      internalID: -953969914573860018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_169
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b034c5d2d398f90800000000000000
+      internalID: -6950957284838929529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magaman_170
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7bdb4f30da3c40800000000000000
+      internalID: 5492931665805933504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31d648e12bd1c7c4d917b8c636761826
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magaman_0: 6447313382215755544
+      magaman_1: 720463758966788904
+      magaman_10: -6620385445664870774
+      magaman_100: -2039865742345458469
+      magaman_101: 199325036295694417
+      magaman_102: 3348857921334251297
+      magaman_103: 4677713826095198018
+      magaman_104: 1574615494002828869
+      magaman_105: -7625193646915356233
+      magaman_106: 4362826953533575294
+      magaman_107: 4119460318160754618
+      magaman_108: 4238765756501787534
+      magaman_109: -6888475187962379820
+      magaman_11: -1982484091165880406
+      magaman_110: -2703165404795524274
+      magaman_111: -3455960150520579163
+      magaman_112: -7586681962164317204
+      magaman_113: 675484058436820707
+      magaman_114: 5774591015070643628
+      magaman_115: 2563070198461833585
+      magaman_116: 2413608336421414262
+      magaman_117: -6735464942235161824
+      magaman_118: -4788961952953187277
+      magaman_119: -8178774197459039632
+      magaman_12: -4088843266562304787
+      magaman_120: -8301938930558210657
+      magaman_121: -1753323841491981439
+      magaman_122: -8136243768910271084
+      magaman_123: 5953648931142826461
+      magaman_124: -7972398201755372473
+      magaman_125: -508507775846607491
+      magaman_126: -525974370602379161
+      magaman_127: 1513617945104498019
+      magaman_128: -664439276660734340
+      magaman_129: -5887764022805406111
+      magaman_13: -7416334263257269295
+      magaman_130: 7057452673103746305
+      magaman_131: 5535034565953342582
+      magaman_132: -4438797326032389410
+      magaman_133: 8922533877576614551
+      magaman_134: 5481710710975906537
+      magaman_135: 9065121737516608563
+      magaman_136: -7405736820062856649
+      magaman_137: 1892110927454145293
+      magaman_138: -2823808482644895938
+      magaman_139: 7921528710767962230
+      magaman_14: -6376405179452625001
+      magaman_140: 3751874666453095911
+      magaman_141: 8418612757565896620
+      magaman_142: 4489194195779661842
+      magaman_143: -6065555050099160189
+      magaman_144: 230844143716258196
+      magaman_145: -3320819571465883968
+      magaman_146: 2367667718515401949
+      magaman_147: -5381755085495676623
+      magaman_148: 1221593091154063220
+      magaman_149: 4294707202808035573
+      magaman_15: -1323414887585967262
+      magaman_150: 5102616246725994381
+      magaman_151: 7252290321664776113
+      magaman_152: -3716978781355453261
+      magaman_153: 6869298338773243810
+      magaman_154: -7705358031348232277
+      magaman_155: 5826081473450155824
+      magaman_156: -2600758357559002991
+      magaman_157: 9186057324519114750
+      magaman_158: 8035901619360349433
+      magaman_159: 6248953579389122349
+      magaman_16: 5077440503657717402
+      magaman_160: 5456590291986741048
+      magaman_161: 6559207475644810401
+      magaman_162: 3522824351678911724
+      magaman_163: 8566829431014615706
+      magaman_164: 2075196273626102654
+      magaman_165: -211954740764529875
+      magaman_166: 5385749493688811981
+      magaman_167: 5690810075685962042
+      magaman_168: -953969914573860018
+      magaman_169: -6950957284838929529
+      magaman_17: 6239707342616715895
+      magaman_170: 5492931665805933504
+      magaman_18: 4241774812242417481
+      magaman_19: 8238301799098821140
+      magaman_2: -1103120856118785906
+      magaman_20: -6506320051393383017
+      magaman_21: -2561049135748592227
+      magaman_22: -1389897294374041116
+      magaman_23: -5579179045285462918
+      magaman_24: 7117033997535646437
+      magaman_25: 6997755801307678786
+      magaman_26: 6203507940422232688
+      magaman_27: 9215004565124650820
+      magaman_28: 6456932196099483813
+      magaman_29: -4466331778645179387
+      magaman_3: -6054628678717031041
+      magaman_30: -4904614401942983989
+      magaman_31: -1634540323303269020
+      magaman_32: -2424788714617751831
+      magaman_33: -7593635332288270436
+      magaman_34: -6146475743721775715
+      magaman_35: 940780117621723334
+      magaman_36: -2281552856245707608
+      magaman_37: 6797796214663339157
+      magaman_38: -5212896451050186932
+      magaman_39: -9193962400558697382
+      magaman_4: 1231424557648073383
+      magaman_40: -471440075245815912
+      magaman_41: 8645839225476261624
+      magaman_42: -8742061283034400428
+      magaman_43: -7440493691991964185
+      magaman_44: 1144971058350678914
+      magaman_45: 6674407402922394996
+      magaman_46: 4477097155368089631
+      magaman_47: -5873122835613609804
+      magaman_48: -8420661618102480281
+      magaman_49: 7473558031920163593
+      magaman_5: -5605465721993986050
+      magaman_50: -2424981580937216633
+      magaman_51: 175203868628737464
+      magaman_52: -6924856197967539264
+      magaman_53: -3753394476962328756
+      magaman_54: -8343437417564499745
+      magaman_55: 4514349756629224769
+      magaman_56: -6478987946697588851
+      magaman_57: -1199056090895455420
+      magaman_58: 5532877548481573213
+      magaman_59: 1078903856344128186
+      magaman_6: -8778731802624444901
+      magaman_60: 5762209358609673968
+      magaman_61: 696338152705026413
+      magaman_62: -9196126191022800049
+      magaman_63: -434417037506095837
+      magaman_64: -5393307400120851267
+      magaman_65: 4358229769443467344
+      magaman_66: 6754479864531884824
+      magaman_67: -1530152621034970717
+      magaman_68: -1341143257970321084
+      magaman_69: 1246852254874773412
+      magaman_7: 4366483723073543369
+      magaman_70: 7993173138764914199
+      magaman_71: 148715874183531801
+      magaman_72: -6266109071378890952
+      magaman_73: -3207790660356329945
+      magaman_74: 1366845367165283983
+      magaman_75: -2252676860596657314
+      magaman_76: -5760081347757948249
+      magaman_77: 6061978055228124006
+      magaman_78: -5183774992744447651
+      magaman_79: 1901936825967900166
+      magaman_8: 8944185667708635400
+      magaman_80: -917716056157285027
+      magaman_81: -3553369447374817918
+      magaman_82: 5617518192165608633
+      magaman_83: 8313360332553538609
+      magaman_84: -6891441824680170453
+      magaman_85: -9058781313234169000
+      magaman_86: 2372475027237076061
+      magaman_87: -4946838713792810809
+      magaman_88: 7611320834537470271
+      magaman_89: 42871322962565519
+      magaman_9: -187283365085713880
+      magaman_90: -205079375372454894
+      magaman_91: -4024934721027310756
+      magaman_92: -474478312618372325
+      magaman_93: 6892356530070130439
+      magaman_94: -1560221923811146061
+      magaman_95: -7988294668843216477
+      magaman_96: -469479140450215022
+      magaman_97: -4751642325052458340
+      magaman_98: 9217274775326043223
+      magaman_99: 9136235068132199679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
